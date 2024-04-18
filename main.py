@@ -22,5 +22,9 @@ data = {"acprograms": program_text,
 # Write the data into the JSON file
 with open("systemdata2.json", "w") as json_file:
     json.dump(data, json_file)
-
+# try:
+#     while True:
+#         pass
+# except KeyboardInterrupt:
+#     driver.quit()
 driver.close()
