@@ -17,8 +17,8 @@ program_text=programs.text
 program_table =driver.find_element(By.XPATH,"//table[@class='table table-sm studijniProgramTable']")
 program_table_text = program_table.text
 data = {"acprograms": program_text,
-        "acprogramtypes":program_table_text}
-
+        "acprogramtable":program_table_text}
+# print(programs.text)
 # Write the data into the JSON file
 with open("systemdata2.json", "w") as json_file:
     json.dump(data, json_file)
