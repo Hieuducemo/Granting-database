@@ -1,11 +1,157 @@
 {
     "acprograms": {
-        "name": "Cyber Security",
-        "Study program type": "long cycle master's",
-        "Study form": "full-time study",
-        "Study language": "czech",
-        "Study period": "5 years",
-        "Ensures": "Faculty of Military Technology",
-        "Conditions of acceptance to study": "Uchaze\u010di pod\u00e1vaj\u00ed p\u0159ihl\u00e1\u0161ku ke studiu ve studijn\u00edm programu elektronickou formou na p\u0159edepsan\u00e9m formul\u00e1\u0159i. Po\u017eadavky na p\u0159ij\u00edmac\u00ed \u0159\u00edzen\u00ed jsou schvalov\u00e1ny akademick\u00fdm sen\u00e1tem Fakulty vojensk\u00fdch technologi\u00ed na p\u0159\u00edslu\u0161n\u00fd akademick\u00fd rok.P\u0159ij\u00edmac\u00ed zkou\u0161ka standardn\u011b zahrnuje test studijn\u00edch p\u0159edpoklad\u016f."
-    }
+        "name": "Kybernetick\u00e1 bezpe\u010dnost",
+        "Typ studijn\u00edho programu": "magistersk\u00fd",
+        "Forma studia": "prezen\u010dn\u00ed",
+        "Jazyk studia": "\u010de\u0161tina",
+        "Doba studia": "5 let",
+        "Garantuje": "Fakulta vojensk\u00fdch technologi\u00ed",
+        "Podm\u00ednky p\u0159ijet\u00ed ke studiu": "Uchaze\u010di pod\u00e1vaj\u00ed p\u0159ihl\u00e1\u0161ku ke studiu ve studijn\u00edm programu elektronickou formou na p\u0159edepsan\u00e9m formul\u00e1\u0159i. Po\u017eadavky na p\u0159ij\u00edmac\u00ed \u0159\u00edzen\u00ed jsou schvalov\u00e1ny akademick\u00fdm sen\u00e1tem Fakulty vojensk\u00fdch technologi\u00ed na p\u0159\u00edslu\u0161n\u00fd akademick\u00fd rok.P\u0159ij\u00edmac\u00ed zkou\u0161ka standardn\u011b zahrnuje test studijn\u00edch p\u0159edpoklad\u016f."
+    },
+    "acsubjects": [
+        {
+            "name": "Algoritmizace a programov\u00e1n\u00ed",
+            "name_en": "Algorithmization and programming"
+        },
+        {
+            "name": "Anglick\u00fd jazyk",
+            "name_en": "English Language"
+        },
+        {
+            "name": "Aplikovan\u00e9 vojensk\u00e9 technologie",
+            "name_en": "Applied Military Technologies"
+        },
+        {
+            "name": "Leadership",
+            "name_en": "Leadership"
+        },
+        {
+            "name": "Matematika I",
+            "name_en": "Mathematics I"
+        },
+        {
+            "name": "Metodologie",
+            "name_en": "Methodology"
+        },
+        {
+            "name": "P\u0159\u00edprava v poli",
+            "name_en": "Field Training"
+        },
+        {
+            "name": "T\u011blesn\u00e1 v\u00fdchova",
+            "name_en": "Physical Education"
+        },
+        {
+            "name": "Z\u00e1klady pr\u00e1va",
+            "name_en": "Fundamentals of Law"
+        },
+        {
+            "name": "Bezpe\u010dnost a obrana st\u00e1tu",
+            "name_en": "Security and State Defence"
+        },
+        {
+            "name": "\u010c\u00edslicov\u00e1 technika",
+            "name_en": "Digital Technology"
+        },
+        {
+            "name": "Informatika",
+            "name_en": "Informatics"
+        },
+        {
+            "name": "Matematika II",
+            "name_en": "Mathematics II"
+        },
+        {
+            "name": "Vojensk\u00fd leadership",
+            "name_en": "Military Leadership"
+        },
+        {
+            "name": "Architektury v\u00fdpo\u010detn\u00edch syst\u00e9m\u016f",
+            "name_en": "Architectures of Computing Systems"
+        },
+        {
+            "name": "Matematika III",
+            "name_en": "Mathematics III"
+        },
+        {
+            "name": "Krizov\u00e9 \u0159\u00edzen\u00ed",
+            "name_en": "Crisis Management"
+        },
+        {
+            "name": "Matematika IV",
+            "name_en": "Mathematics IV"
+        },
+        {
+            "name": "Projektov\u00fd management",
+            "name_en": "Project Management"
+        },
+        {
+            "name": "Teorie graf\u016f",
+            "name_en": "Graph Theory"
+        },
+        {
+            "name": "Anal\u00fdza informa\u010dn\u00edch zdroj\u016f",
+            "name_en": "Analysis of Information Sources"
+        },
+        {
+            "name": "Kybernetick\u00e1 bezpe\u010dnost",
+            "name_en": "Cyber Security"
+        },
+        {
+            "name": "Po\u010d\u00edta\u010dov\u00e9 s\u00edt\u011b a jejich bezpe\u010dnost",
+            "name_en": "Computer Networks and Their Security"
+        },
+        {
+            "name": "Teorie informace",
+            "name_en": "Theory of Information"
+        },
+        {
+            "name": "Aplikovan\u00e9 bezpe\u010dnostn\u00ed technologie",
+            "name_en": "Applied Security Technologies"
+        },
+        {
+            "name": "Kryptografick\u00e9 algoritmy a protokoly",
+            "name_en": "Cryptographic Algorithms and Protocols"
+        },
+        {
+            "name": "Odborn\u00e1 praxe",
+            "name_en": "Professional Practice"
+        },
+        {
+            "name": "Francouzsk\u00fd jazyk",
+            "name_en": "French Language"
+        },
+        {
+            "name": "N\u011bmeck\u00fd jazyk",
+            "name_en": "German Language"
+        },
+        {
+            "name": "Rusk\u00fd jazyk",
+            "name_en": "Russian Language"
+        },
+        {
+            "name": "Anal\u00fdzy a kritick\u00e9 my\u0161len\u00ed",
+            "name_en": "Analyzes and Critical Thinking"
+        },
+        {
+            "name": "Forenzn\u00ed anal\u00fdza",
+            "name_en": "Forensic Analysis"
+        },
+        {
+            "name": "Penetra\u010dn\u00ed testov\u00e1n\u00ed",
+            "name_en": "Penetration Testing"
+        },
+        {
+            "name": "V\u00fdvoj a nasazen\u00ed malware",
+            "name_en": "Development and Deployment of Malware"
+        },
+        {
+            "name": "Botnetov\u00e9 s\u00edt\u011b",
+            "name_en": "Botnet Networks"
+        },
+        {
+            "name": "Zpracov\u00e1n\u00ed diplomov\u00e9 pr\u00e1ce a p\u0159\u00edprava na SZZ",
+            "name_en": "Preparation of the Diploma Thesis and Preparation for the FSE"
+        }
+    ]
 }
