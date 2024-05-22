@@ -1,0 +1,76 @@
+{
+    "acprogramtypes": [
+    {
+        "id": "fd4f0980-9315-11ed-9b95-0242ac110002",
+        "name": "bakalářský prezenční 3 roky čeština",
+        "name_en": "bachelor present 3 years czech",
+        "title_id": "d1431d9c-930e-11ed-9b95-0242ac110002",
+        "form_id": "19018d2c-930e-11ed-9b95-0242ac110002",
+        "language_id": "36e9a40a-930e-11ed-9b95-0242ac110002",
+        "level_id": "5c549cae-930e-11ed-9b95-0242ac110002"
+    },
+    {
+        "id": "fd4f1d4e-9315-11ed-9b95-0242ac110002",
+        "name": "bakalářský kombinovaný 3 roky čeština",
+        "name_en": "bachelor combined 3 years czech",
+        "title_id": "d1431d9c-930e-11ed-9b95-0242ac110002",
+        "form_id": "19019704-930e-11ed-9b95-0242ac110002",
+        "language_id": "36e9a40a-930e-11ed-9b95-0242ac110002",
+        "level_id": "5c549cae-930e-11ed-9b95-0242ac110002"
+    },
+    {
+        "id": "fd4f1eb6-9315-11ed-9b95-0242ac110002",
+        "name": "magisterský navazující na bakalářský prezenční 2 roky čeština",
+        "name_en": "master extending bachelor present 2 years czech",
+        "title_id": "d1431644-930e-11ed-9b95-0242ac110002",
+        "form_id": "19018d2c-930e-11ed-9b95-0242ac110002",
+        "language_id": "36e9a40a-930e-11ed-9b95-0242ac110002",
+        "level_id": "5c5495ce-930e-11ed-9b95-0242ac110002"
+    },
+    {
+        "id": "fd4f1f4c-9315-11ed-9b95-0242ac110002",
+        "name": "magisterský navazující na bakalářský kombinovaný 2 roky čeština",
+        "name_en": "master extending bachelor combined 2 years czech",
+        "title_id": "d1431644-930e-11ed-9b95-0242ac110002",
+        "form_id": "19019704-930e-11ed-9b95-0242ac110002",
+        "language_id": "36e9a40a-930e-11ed-9b95-0242ac110002",
+        "level_id": "5c5495ce-930e-11ed-9b95-0242ac110002"
+    },
+    {
+        "id": "fd4f1fba-9315-11ed-9b95-0242ac110002",
+        "name": "doktorský prezenční 4 roky čeština",
+        "name_en": "doctoral present 4 years czech",
+        "title_id": "dc5bd804-930e-11ed-9b95-0242ac110002",
+        "form_id": "19018d2c-930e-11ed-9b95-0242ac110002",
+        "language_id": "36e9a40a-930e-11ed-9b95-0242ac110002",
+        "level_id": "79530a3e-930e-11ed-9b95-0242ac110002"
+    },
+    {
+        "id": "fd4f2028-9315-11ed-9b95-0242ac110002",
+        "name": "doktorský kombinovaný 4 roky čeština",
+        "name_en": "doctoral combined 4 years czech",
+        "title_id": "dc5bd804-930e-11ed-9b95-0242ac110002",
+        "form_id": "19019704-930e-11ed-9b95-0242ac110002",
+        "language_id": "36e9a40a-930e-11ed-9b95-0242ac110002",
+        "level_id": "79530a3e-930e-11ed-9b95-0242ac110002"
+    },
+    {
+        "id": "fd4f2082-9315-11ed-9b95-0242ac110002",
+        "name": "magisterský prezenční 5 let čeština",
+        "name_en": "master present 5 years czech",
+        "title_id": "d1431644-930e-11ed-9b95-0242ac110002",
+        "form_id": "19018d2c-930e-11ed-9b95-0242ac110002",
+        "language_id": "36e9a40a-930e-11ed-9b95-0242ac110002",
+        "level_id": "5c5495ce-930e-11ed-9b95-0242ac110002"
+    },
+    {
+        "id": "fd4f20dc-9315-11ed-9b95-0242ac110002",
+        "name": "magisterský prezenční 6 let čeština",
+        "name_en": "master present 6 years czech",
+        "title_id": "2509ab28-95e2-11ed-a1eb-0242ac120002",
+        "form_id": "19018d2c-930e-11ed-9b95-0242ac110002",
+        "language_id": "36e9a40a-930e-11ed-9b95-0242ac110002",
+        "level_id": "5c5495ce-930e-11ed-9b95-0242ac110002"
+    }
+]
+}

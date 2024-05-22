@@ -1,0 +1,34 @@
+{
+    "aclessontypes": [
+        {
+            "id": "e2b7c66a-95e1-11ed-a1eb-0242ac120002",
+            "name": "cvičení",
+            "name_en": ""
+        },
+        {
+            "id": "e2b7cbf6-95e1-11ed-a1eb-0242ac120002",
+            "name": "přednáška",
+            "name_en": ""
+        },
+        {
+            "id": "e2b7cfac-95e1-11ed-a1eb-0242ac120002",
+            "name": "laboratorní cvičení",
+            "name_en": ""
+        },
+        {
+            "id": "e2b7d1fa-95e1-11ed-a1eb-0242ac120002",
+            "name": "seminář",
+            "name_en": ""
+        },
+        {
+            "id": "e2b7d48e-95e1-11ed-a1eb-0242ac120002",
+            "name": "konzultace",
+            "name_en": ""
+        },
+        {
+            "id": "e2b7d88a-95e1-11ed-a1eb-0242ac120002",
+            "name": "polní výcvik",
+            "name_en": ""
+        }
+    ]
+}
