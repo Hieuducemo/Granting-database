@@ -16,7 +16,7 @@ url = "https://apl.unob.cz/StudijniProgramy/Studium/4/Cyber-Security?culture=cs-
 driver.get(url)
 
 # Wait for a few seconds to ensure the page loads completely
-time.sleep(1)
+time.sleep(2)
 program_name = driver.find_element(By.XPATH, "//span[@class='h2 lead nabidkaH']").text
 html_text = driver.page_source
 soup = BeautifulSoup(html_text, "html.parser")
@@ -25,7 +25,7 @@ soup = BeautifulSoup(html_text, "html.parser")
 nav_link = driver.find_element(By.CSS_SELECTOR, 'a.nav-link[style*="color:white"][href*="/StudijniProgramy/Studium/4/Kyberneticka-bezpecnost"]')
 driver.execute_script("arguments[0].scrollIntoView(true);", nav_link)  # Scroll into view
 nav_link.click()
-time.sleep(1)  # Wait for the English page to load
+time.sleep(2)  # Wait for the English page to load
 
 # Get the English page's HTML content
 html_text_eng = driver.page_source
@@ -36,14 +36,13 @@ program_name_eng = driver.find_element(By.XPATH, "//span[@class='h2 lead nabidka
 driver.quit()
 
 # Extract data from the original (Czech) page
-# myTable = soup.find('table', {'class': "table table-sm studijniProgramTable"})
 
 # program
 table_data_program = {}
 table_data_program["name"] = program_name
+table_data_program["name_en"]=program_name_eng
 table_data_program["type_id"]= "fd4f2082-9315-11ed-9b95-0242ac110002"
 table_data_program["lastchange"]=""
-table_data_program["name_en"]=program_name_eng
 parsed_url = urlparse(url)
 path_segments = parsed_url.path.split('/')
 program_id = path_segments[3]
@@ -58,11 +57,14 @@ table_data_program["id"]= program_id
 
 # Extract subjects from the Czech page
 data_subject = []
+subject_hrefs = []
+
 subjects = soup.find_all('a', attrs={'target': '_blank'})
 for subject in subjects:
     subject_name = subject.text.strip()  # Strip whitespace from subject name
     href = subject['href']
     # Extract the ID from the href
+    subject_hrefs.append(href)
     parsed_url = urlparse(href)
     path_segments = parsed_url.path.split('/')
     subject_id = path_segments[3]
@@ -74,6 +76,9 @@ for subject in subjects:
         "lastchange":""
     })
 
+with open('subject_href.txt', 'w') as file:
+    for href in subject_hrefs:
+        file.write("https://apl.unob.cz"+href + '\n')
 # Extract subjects from the English page and match them, avoiding duplicates
 existing_names_en = set()
 subjects_eng = soup_eng.find_all('a', attrs={'target': '_blank'})
@@ -91,15 +96,23 @@ with open("programtype.json", "r", encoding="utf-8") as pt_file:
     
 with open("lessontype.json", "r", encoding="utf-8") as pt_file:
     lesson_types = json.load(pt_file)
-    
+
+with open("acclassification.json","r", encoding="utf-8") as pt_file:
+    classification_types = json.load(pt_file)
+
+with open("acsemester.json", "r", encoding="utf-8") as pt_file:
+    semester = json.load(pt_file)
+
 data = {
     "acprograms": [table_data_program],  # Wrap the program details in a list
     "acsubjects": filtered_data_subject,
     "acprogramtypes": program_types,
     "aclessontypes": lesson_types, 
+    "acclassificationtypes":classification_types,
     "aclesson":"", 
-    "acsemester":"", 
-    "acclassification":""
+    "acsemester":semester, 
+    "acclassification":"",
+    "actopic":""
 }
 
 # Write the data to a JSON file

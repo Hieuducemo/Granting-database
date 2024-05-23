@@ -1,0 +1,8 @@
+{
+    "acclassificationtypes": [
+        {"id": "a00a0322-b095-11ed-9bd8-0242ac110002" , "name": "Z", "name_en": ""},
+        {"id": "a00a0642-b095-11ed-9bd8-0242ac110002" , "name": "Z+Zk", "name_en": ""},
+        {"id": "a00a06f6-b095-11ed-9bd8-0242ac110002" , "name": "Zk", "name_en": ""},
+        {"id": "a00a076e-b095-11ed-9bd8-0242ac110002" , "name": "KZ", "name_en": ""}
+    ]
+}
