@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import time
 from selenium.webdriver.common.by import By
 from urllib.parse import urlparse
-
+import uuid
 options = Options()
 options.add_experimental_option("detach", True)
 
@@ -69,7 +69,7 @@ for subject in subjects:
     path_segments = parsed_url.path.split('/')
     subject_id = path_segments[3]
     data_subject.append({
-        "id": subject_id,
+        "id":str(uuid.uuid4()),
         "name": subject_name,
         "name_en": "",  # Placeholder for English name
         "program_id":program_id,
@@ -114,7 +114,8 @@ data = {
     "acclassification":"",
     "actopic":""
 }
-
+with open("acsubject.json","w", encoding="utf-8") as json_file:
+    json.dump(filtered_data_subject,json_file,ensure_ascii=False,indent=4)
 # Write the data to a JSON file
 with open("systemdata2.json", "w",encoding="utf-8") as json_file:
     json.dump(data, json_file,ensure_ascii=False,indent=4)
