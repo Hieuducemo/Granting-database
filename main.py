@@ -8,9 +8,10 @@ import time
 from selenium.webdriver.common.by import By
 from urllib.parse import urlparse
 import uuid
+
+# Selenium setup
 options = Options()
 options.add_experimental_option("detach", True)
-
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 url = "https://apl.unob.cz/StudijniProgramy/Studium/4/Cyber-Security?culture=cs-CZ"
 driver.get(url)
@@ -48,13 +49,6 @@ path_segments = parsed_url.path.split('/')
 program_id = path_segments[3]
 table_data_program["id"]= program_id
 
-# for row in myTable.find_all('tr'):
-#     cells = row.find_all('td')
-#     if len(cells) == 2:
-#         key = cells[0].get_text(strip=True)
-#         value = cells[1].get_text(strip=True)
-#         table_data_program[key] = value
-
 # Extract subjects from the Czech page
 data_subject = []
 subject_hrefs = []
@@ -79,6 +73,7 @@ for subject in subjects:
 with open('subject_href.txt', 'w') as file:
     for href in subject_hrefs:
         file.write("https://apl.unob.cz"+href + '\n')
+
 # Extract subjects from the English page and match them, avoiding duplicates
 existing_names_en = set()
 subjects_eng = soup_eng.find_all('a', attrs={'target': '_blank'})
@@ -91,33 +86,54 @@ for i, subject_eng in enumerate(subjects_eng):
 # Filter out subjects with empty English names
 filtered_data_subject = [subject for subject in data_subject if subject["name_en"]]
 
-with open("programtype.json", "r", encoding="utf-8") as pt_file:
-    program_types = json.load(pt_file)
-    
-with open("lessontype.json", "r", encoding="utf-8") as pt_file:
-    lesson_types = json.load(pt_file)
+# Load existing data files
+def load_json(filename):
+    with open(filename, "r", encoding="utf-8") as file:
+        return json.load(file)
 
-with open("acclassification.json","r", encoding="utf-8") as pt_file:
-    classification_types = json.load(pt_file)
+program_types = load_json("programtype.json")
+lesson_types = load_json("lessontype.json")
+classification_types = load_json("acclassification.json")
+classification_levels = load_json("acclassificationlevel.json")
+semesters = load_json("acsemester.json")
 
-with open("acsemester.json", "r", encoding="utf-8") as pt_file:
-    semester = json.load(pt_file)
+#classification
+data_classification = [] 
+users = load_json("user.json")
+users = [users[0], users[1]]
+order= 0 
+for user in users:
+    order+=1 
+    data_classification.append({
+        "id": str(uuid.uuid4()),
+        "user_id": user["id"],
+        "semester_id": "54cd10b6-9465-45a5-88f1-02c77f8b962b",
+        "classificationlevel_id":"5fae9dd8-b095-11ed-9bd8-0242ac110002",
+        "lastchange":"", 
+        "order": order
+    })
 
+
+# Create the final data dictionary
 data = {
-    "acprograms": [table_data_program],  # Wrap the program details in a list
+    "acprograms": [table_data_program],
     "acsubjects": filtered_data_subject,
     "acprogramtypes": program_types,
-    "aclessontypes": lesson_types, 
-    "acclassificationtypes":classification_types,
-    "aclesson":"", 
-    "acsemester":semester, 
-    "acclassification":"",
-    "actopic":""
+    "aclessontypes": lesson_types,
+    "acclassificationtypes": classification_types,
+    "acclassificationlevels": classification_levels,
+    "aclesson": "",
+    "acsemester": semesters,
+    "acclassification": data_classification,
+    "actopic": ""
 }
-with open("acsubject.json","w", encoding="utf-8") as json_file:
-    json.dump(filtered_data_subject,json_file,ensure_ascii=False,indent=4)
-# Write the data to a JSON file
-with open("systemdata2.json", "w",encoding="utf-8") as json_file:
-    json.dump(data, json_file,ensure_ascii=False,indent=4)
+
+# Write the subjects to a JSON file
+with open("acsubject.json", "w", encoding="utf-8") as json_file:
+    json.dump(filtered_data_subject, json_file, ensure_ascii=False, indent=4)
+
+# Write the complete data to a JSON file
+with open("systemdata2.json", "w", encoding="utf-8") as json_file:
+    json.dump(data, json_file, ensure_ascii=False, indent=4)
 
 print("Ok!")

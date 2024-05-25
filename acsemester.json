@@ -1,738 +1,738 @@
 [
     {
-        "id": "6a002a93-a595-4e0b-8c77-d6af3ab1badd",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "54cd10b6-9465-45a5-88f1-02c77f8b962b",
+        "subject_id": "f628ce18-6700-4f44-8865-56e3e7f9dc34",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 1,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "6a002a93-a595-4e0b-8c77-d6af3ab1badd",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "8d6c32cc-3835-4485-b89b-a76e7a63ed31",
+        "subject_id": "8e754627-3907-4517-9d84-1ba666bcf591",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 1,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "6a002a93-a595-4e0b-8c77-d6af3ab1badd",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "edf65795-7816-4c2a-bf03-55baf7267cc4",
+        "subject_id": "f2110211-425b-4c3e-b2dc-0b6e3f601d88",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 1,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "6a002a93-a595-4e0b-8c77-d6af3ab1badd",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "7883e33a-acc3-407a-a220-81f31959d61e",
+        "subject_id": "de9d5f4d-1b8d-41fd-9d48-600a43d9c625",
+        "classificationtype_id": "a00a076e-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 1,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "6a002a93-a595-4e0b-8c77-d6af3ab1badd",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "9b540a40-b073-4e71-a2b6-995038e18510",
+        "subject_id": "35b3a008-5d0e-4197-a2c5-efafec4bc7aa",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 1,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "6a002a93-a595-4e0b-8c77-d6af3ab1badd",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "6aec8d0f-8e7f-480b-9d19-fb88834e4e1b",
+        "subject_id": "25f1a7ee-a3d8-4bf2-b750-69596182b506",
+        "classificationtype_id": "a00a076e-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 1,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "6a002a93-a595-4e0b-8c77-d6af3ab1badd",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "823f2a12-ee0c-4bf4-b958-cb7c0241937f",
+        "subject_id": "b58960c3-a01f-4255-a6c1-ee9efc430fcd",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 1,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "6a002a93-a595-4e0b-8c77-d6af3ab1badd",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "a981da4c-56d0-4f1a-962b-684a16754266",
+        "subject_id": "afaf3c8e-3a6f-4753-a253-5354bff23fe1",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 1,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "6a002a93-a595-4e0b-8c77-d6af3ab1badd",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "be9f5a54-753e-485b-9166-a81bd6f75d6c",
+        "subject_id": "44898760-6a73-4796-8440-630aacfabc6f",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 1,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "7cc650c0-34c2-4d55-9417-a3a5659de587",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "1067c12f-28da-438d-98b5-6847b77b99c5",
+        "subject_id": "8e754627-3907-4517-9d84-1ba666bcf591",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 2,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "7cc650c0-34c2-4d55-9417-a3a5659de587",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "a3e446ef-1305-4ca4-99be-e2ca3f0bd5f8",
+        "subject_id": "f2110211-425b-4c3e-b2dc-0b6e3f601d88",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 2,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "7cc650c0-34c2-4d55-9417-a3a5659de587",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "7989ee33-56b2-459b-ad55-d99c83527b88",
+        "subject_id": "de1d16e5-1d55-429a-bc0a-f756de1565a9",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 2,
-        "credits": ""
+        "credits": 4
     },
     {
-        "id": "7cc650c0-34c2-4d55-9417-a3a5659de587",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "e3d0e41b-3948-4e4b-ba7d-cea20f879bda",
+        "subject_id": "c65ca8b6-e90e-48f1-9081-029fdb938925",
+        "classificationtype_id": "a00a076e-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 2,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "7cc650c0-34c2-4d55-9417-a3a5659de587",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "d48c4073-fb25-45a9-bf8b-cf2f272be1c8",
+        "subject_id": "81282576-6c1a-4d3a-9151-290b82e1893a",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 2,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "7cc650c0-34c2-4d55-9417-a3a5659de587",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "6b915e5f-93b5-4d32-8759-4e50703aa1b8",
+        "subject_id": "f9251289-0eca-42bd-a15a-db7529aa405c",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 2,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "7cc650c0-34c2-4d55-9417-a3a5659de587",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "1c0fddaa-7ff7-4626-a3b0-694e89a53c60",
+        "subject_id": "b58960c3-a01f-4255-a6c1-ee9efc430fcd",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 2,
-        "credits": ""
+        "credits": 4
     },
     {
-        "id": "7cc650c0-34c2-4d55-9417-a3a5659de587",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "12472709-8de6-4594-8c2e-24a1eb9993e4",
+        "subject_id": "afaf3c8e-3a6f-4753-a253-5354bff23fe1",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 2,
-        "credits": ""
+        "credits": 3
     },
     {
-        "id": "7cc650c0-34c2-4d55-9417-a3a5659de587",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "1ea54372-2691-4692-97f5-3545e8cff61f",
+        "subject_id": "12417713-3920-4fde-bb30-b5849f458d6b",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 2,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "7cc650c0-34c2-4d55-9417-a3a5659de587",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "b958915b-5746-40ba-a20f-7937511fd7bc",
+        "subject_id": "44898760-6a73-4796-8440-630aacfabc6f",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 2,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "f6c57ca2-63eb-405c-ae49-1323068fe859",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "c84e5819-12bf-41e9-86da-8f4e404d2217",
+        "subject_id": "8e754627-3907-4517-9d84-1ba666bcf591",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 3,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "f6c57ca2-63eb-405c-ae49-1323068fe859",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "2242235e-6577-40e9-b79f-f45b72313dbe",
+        "subject_id": "f2110211-425b-4c3e-b2dc-0b6e3f601d88",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 3,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "f6c57ca2-63eb-405c-ae49-1323068fe859",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "2a876566-4bb6-41bc-a2e9-57a798b79b01",
+        "subject_id": "b8b28eb8-f696-492a-b9c1-ab7c2a73d62d",
+        "classificationtype_id": "a00a076e-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 3,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "f6c57ca2-63eb-405c-ae49-1323068fe859",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "6356f189-bee5-4972-a23c-1eb1c49e1b01",
+        "subject_id": "81282576-6c1a-4d3a-9151-290b82e1893a",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 3,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "f6c57ca2-63eb-405c-ae49-1323068fe859",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "ecff237f-629b-40e3-a662-c9a409d0fe5b",
+        "subject_id": "c6952d2a-dbca-4e31-853b-397140cf6452",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 3,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "f6c57ca2-63eb-405c-ae49-1323068fe859",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "d9f58e37-d837-43c9-ae73-8b2461c23297",
+        "subject_id": "afaf3c8e-3a6f-4753-a253-5354bff23fe1",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 3,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "f6c57ca2-63eb-405c-ae49-1323068fe859",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "8b013f3d-0304-466b-99c6-98c260119619",
+        "subject_id": "44898760-6a73-4796-8440-630aacfabc6f",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 3,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "326e2e57-65cb-4c4a-b7da-4691b787892e",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "4dc7fe47-711d-4b39-9007-b900c1b3750e",
+        "subject_id": "8e754627-3907-4517-9d84-1ba666bcf591",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 4,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "326e2e57-65cb-4c4a-b7da-4691b787892e",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "15dd419e-ee88-4020-ab45-ecca5a1e5c6f",
+        "subject_id": "f2110211-425b-4c3e-b2dc-0b6e3f601d88",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 4,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "326e2e57-65cb-4c4a-b7da-4691b787892e",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "18180476-e117-46bd-b1aa-2bfc936b01bb",
+        "subject_id": "81282576-6c1a-4d3a-9151-290b82e1893a",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 4,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "326e2e57-65cb-4c4a-b7da-4691b787892e",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "20903447-32a5-43c1-aa32-a724a8b626c8",
+        "subject_id": "9f62fdf7-057e-4a5a-81c6-9421a27f04c7",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 4,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "326e2e57-65cb-4c4a-b7da-4691b787892e",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "310bbc28-1c37-4c32-bdeb-d45a4e060272",
+        "subject_id": "b48d0f35-7810-4ffc-92be-6fa32ea9c3fd",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 4,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "326e2e57-65cb-4c4a-b7da-4691b787892e",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "f08e6b1a-8be0-4203-85bc-a5affd1aff49",
+        "subject_id": "76443194-f333-4cf2-a554-a68d587fd06d",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 4,
-        "credits": ""
+        "credits": 4
     },
     {
-        "id": "326e2e57-65cb-4c4a-b7da-4691b787892e",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "a5d7d77b-5e47-4320-ad01-1b917ae2f9fa",
+        "subject_id": "afaf3c8e-3a6f-4753-a253-5354bff23fe1",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 4,
-        "credits": ""
+        "credits": 3
     },
     {
-        "id": "326e2e57-65cb-4c4a-b7da-4691b787892e",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "10568ede-7d09-44e2-99f3-4e9a79631780",
+        "subject_id": "dec80620-6500-43c4-b191-6bfcdd52424b",
+        "classificationtype_id": "a00a076e-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 4,
-        "credits": ""
+        "credits": 4
     },
     {
-        "id": "70abcb5d-45f7-4fd2-96aa-301e075c138d",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "d5a0239b-7f62-40e9-a3a6-8055f2c31ee2",
+        "subject_id": "22a477cc-54c4-4607-beea-2cb747571935",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 5,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "70abcb5d-45f7-4fd2-96aa-301e075c138d",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "f6d82c5e-9646-4c7c-a7f7-5d070f3ed8a0",
+        "subject_id": "8e754627-3907-4517-9d84-1ba666bcf591",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 5,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "70abcb5d-45f7-4fd2-96aa-301e075c138d",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "6ceff040-7921-4569-a50a-e8d7edc43147",
+        "subject_id": "f2110211-425b-4c3e-b2dc-0b6e3f601d88",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 5,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "70abcb5d-45f7-4fd2-96aa-301e075c138d",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "91a89638-70fd-46f4-ad91-a7b445324fd5",
+        "subject_id": "81282576-6c1a-4d3a-9151-290b82e1893a",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 5,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "70abcb5d-45f7-4fd2-96aa-301e075c138d",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "3d3ad014-9d0d-471b-a923-4fb422436068",
+        "subject_id": "c53eba88-33d2-464a-b8a3-c1b729ef4505",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 5,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "70abcb5d-45f7-4fd2-96aa-301e075c138d",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "e38453fe-6fe5-47c1-9ea6-db78f9432c26",
+        "subject_id": "3410acdc-0c0b-4b01-b88a-b406576742de",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 5,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "70abcb5d-45f7-4fd2-96aa-301e075c138d",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "80980f21-ee32-4513-aa53-76f9723c67f9",
+        "subject_id": "76443194-f333-4cf2-a554-a68d587fd06d",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 5,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "70abcb5d-45f7-4fd2-96aa-301e075c138d",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "c19355f9-1d55-4727-9d28-a92512cbb1db",
+        "subject_id": "afaf3c8e-3a6f-4753-a253-5354bff23fe1",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 5,
-        "credits": ""
+        "credits": 3
     },
     {
-        "id": "e1ff76a3-821d-4d70-b02b-5b20e4cf75b5",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "0d0eb4e6-2a19-4993-87d4-b6a4bf650a26",
+        "subject_id": "22a477cc-54c4-4607-beea-2cb747571935",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 6,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "e1ff76a3-821d-4d70-b02b-5b20e4cf75b5",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "2e72df51-57db-4314-89ae-7b62df6c13d4",
+        "subject_id": "8e754627-3907-4517-9d84-1ba666bcf591",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 6,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "e1ff76a3-821d-4d70-b02b-5b20e4cf75b5",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "d7327431-0e74-404a-96bf-51c6f68d20c6",
+        "subject_id": "f2110211-425b-4c3e-b2dc-0b6e3f601d88",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 6,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "e1ff76a3-821d-4d70-b02b-5b20e4cf75b5",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "6cce27a4-5cd7-4908-aae9-0c569dc0afda",
+        "subject_id": "81282576-6c1a-4d3a-9151-290b82e1893a",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 6,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "e1ff76a3-821d-4d70-b02b-5b20e4cf75b5",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "41c4de1b-5762-4a4e-ac38-476eafb7c48e",
+        "subject_id": "c53eba88-33d2-464a-b8a3-c1b729ef4505",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 6,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "e1ff76a3-821d-4d70-b02b-5b20e4cf75b5",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "725bdb90-8c5d-459e-9423-9e7d250390ba",
+        "subject_id": "3410acdc-0c0b-4b01-b88a-b406576742de",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 6,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "e1ff76a3-821d-4d70-b02b-5b20e4cf75b5",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "0a42ab69-ca0a-41ab-a843-af405eb77993",
+        "subject_id": "afaf3c8e-3a6f-4753-a253-5354bff23fe1",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 6,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "e1ff76a3-821d-4d70-b02b-5b20e4cf75b5",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "e81d67a8-d024-486c-85f4-d9eafba69082",
+        "subject_id": "4fb9d66c-bbbf-4148-bad3-5e91be2c9bbc",
+        "classificationtype_id": "a00a076e-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 6,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "7b8134dc-08ce-45b9-9e3a-fd2c7538d8ee",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "f4e8d34a-e4d2-48fc-a58e-2352a4719dc4",
+        "subject_id": "22a477cc-54c4-4607-beea-2cb747571935",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 7,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "7b8134dc-08ce-45b9-9e3a-fd2c7538d8ee",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "be119a94-6688-40c5-9c4f-bf44c399ec52",
+        "subject_id": "8e754627-3907-4517-9d84-1ba666bcf591",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 7,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "7b8134dc-08ce-45b9-9e3a-fd2c7538d8ee",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "0504ee99-4c26-4f0a-bbca-512312c2b1bb",
+        "subject_id": "1dd13596-ad60-4213-bbae-e7b0a06e535b",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 7,
-        "credits": ""
+        "credits": 4
     },
     {
-        "id": "7b8134dc-08ce-45b9-9e3a-fd2c7538d8ee",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "0f45cb5b-081e-4f47-8672-05ccceaea664",
+        "subject_id": "542ef9a6-8109-48e9-82d5-21953759b55c",
+        "classificationtype_id": "a00a076e-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 7,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "7b8134dc-08ce-45b9-9e3a-fd2c7538d8ee",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "054735af-8311-421b-be8a-617475c8d208",
+        "subject_id": "c53eba88-33d2-464a-b8a3-c1b729ef4505",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 7,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "7b8134dc-08ce-45b9-9e3a-fd2c7538d8ee",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "bfff3380-3428-470e-a070-42cb19c2deef",
+        "subject_id": "eebb5f60-d815-4f4a-a21e-35263b01c8f0",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 7,
-        "credits": ""
+        "credits": 4
     },
     {
-        "id": "7b8134dc-08ce-45b9-9e3a-fd2c7538d8ee",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "03023db2-3f4e-4686-901b-9abaa8905800",
+        "subject_id": "3410acdc-0c0b-4b01-b88a-b406576742de",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 7,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "7b8134dc-08ce-45b9-9e3a-fd2c7538d8ee",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "2799d7dc-e168-4279-ae73-b15765c694c8",
+        "subject_id": "afaf3c8e-3a6f-4753-a253-5354bff23fe1",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 7,
-        "credits": ""
+        "credits": 3
     },
     {
-        "id": "7b8134dc-08ce-45b9-9e3a-fd2c7538d8ee",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "8d435686-7013-45e2-95f7-a35d916382ae",
+        "subject_id": "f07fadd6-2ca6-473b-a9ff-267d231ed31c",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 7,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "7b8134dc-08ce-45b9-9e3a-fd2c7538d8ee",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "38aaede0-b68c-46f6-ac5c-451a0c0c7215",
+        "subject_id": "b8ddd91c-46c3-46d8-b88b-c79caf42f096",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 7,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "7b8134dc-08ce-45b9-9e3a-fd2c7538d8ee",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "0e39e954-7fa4-4728-bf78-d1ed1663de6d",
+        "subject_id": "8b20900c-ec47-4085-9078-204b43b725f1",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 7,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "29d561b8-555b-4c29-bd4b-c472dec5e195",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "e7353c3b-57f8-4b71-87f0-5917e4bc8432",
+        "subject_id": "22a477cc-54c4-4607-beea-2cb747571935",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 8,
-        "credits": ""
+        "credits": 4
     },
     {
-        "id": "29d561b8-555b-4c29-bd4b-c472dec5e195",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "83555cc4-4c53-421f-9e92-2ecf079cdfc3",
+        "subject_id": "176dee30-4abb-4cb5-b50d-024cc9097d7f",
+        "classificationtype_id": "a00a076e-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 8,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "29d561b8-555b-4c29-bd4b-c472dec5e195",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "19ba3cb2-4f79-41c4-9990-0dd303ef5504",
+        "subject_id": "8e754627-3907-4517-9d84-1ba666bcf591",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 8,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "29d561b8-555b-4c29-bd4b-c472dec5e195",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "f276f7c6-3ee1-4ebf-82f3-10951d8b0f86",
+        "subject_id": "1dd13596-ad60-4213-bbae-e7b0a06e535b",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 8,
-        "credits": ""
+        "credits": 4
     },
     {
-        "id": "29d561b8-555b-4c29-bd4b-c472dec5e195",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "00ce1e70-b28b-4973-bc9a-2fa43dfddf35",
+        "subject_id": "c53eba88-33d2-464a-b8a3-c1b729ef4505",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 8,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "29d561b8-555b-4c29-bd4b-c472dec5e195",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "ac4bd8d7-252d-42b2-a961-462ec02aa858",
+        "subject_id": "eebb5f60-d815-4f4a-a21e-35263b01c8f0",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 8,
-        "credits": ""
+        "credits": 4
     },
     {
-        "id": "29d561b8-555b-4c29-bd4b-c472dec5e195",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "339ed641-0ee6-4d93-8284-5d5c9d73319a",
+        "subject_id": "3410acdc-0c0b-4b01-b88a-b406576742de",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 8,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "29d561b8-555b-4c29-bd4b-c472dec5e195",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "43ad34af-2e44-448a-b35c-6370ee1a2471",
+        "subject_id": "afaf3c8e-3a6f-4753-a253-5354bff23fe1",
+        "classificationtype_id": "a00a076e-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 8,
-        "credits": ""
+        "credits": 3
     },
     {
-        "id": "29d561b8-555b-4c29-bd4b-c472dec5e195",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "21feb5b1-2bdb-46c1-9389-fa8a449eb5b5",
+        "subject_id": "f07fadd6-2ca6-473b-a9ff-267d231ed31c",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 8,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "29d561b8-555b-4c29-bd4b-c472dec5e195",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "6e9f8511-3f45-48d5-aa26-0afa1031350e",
+        "subject_id": "b8ddd91c-46c3-46d8-b88b-c79caf42f096",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 8,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "29d561b8-555b-4c29-bd4b-c472dec5e195",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "9d81fb97-9039-4567-b1cb-1cf818e8eac4",
+        "subject_id": "8b20900c-ec47-4085-9078-204b43b725f1",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 8,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "45583d29-e54b-474f-8906-5ec82121c919",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "92cf1464-3dd8-425d-afee-b794c047f5f2",
+        "subject_id": "22a477cc-54c4-4607-beea-2cb747571935",
+        "classificationtype_id": "a00a076e-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 9,
-        "credits": ""
+        "credits": 4
     },
     {
-        "id": "45583d29-e54b-474f-8906-5ec82121c919",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "39fec131-6941-4e95-a50b-07bfbc39bc34",
+        "subject_id": "8e754627-3907-4517-9d84-1ba666bcf591",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 9,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "45583d29-e54b-474f-8906-5ec82121c919",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "ae1a9825-43f4-4af4-9b8c-fe76d96b29e4",
+        "subject_id": "1dd13596-ad60-4213-bbae-e7b0a06e535b",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 9,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "45583d29-e54b-474f-8906-5ec82121c919",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "f1b4fd31-0013-406a-b57c-0fca9154572e",
+        "subject_id": "a50bfcd9-4181-4984-8609-47217e37620a",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 9,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "45583d29-e54b-474f-8906-5ec82121c919",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "8c4cfd2e-d975-45a9-8e29-d4dd1c2ce8a9",
+        "subject_id": "eebb5f60-d815-4f4a-a21e-35263b01c8f0",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 9,
-        "credits": ""
+        "credits": 4
     },
     {
-        "id": "45583d29-e54b-474f-8906-5ec82121c919",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "e0a09a33-c8b5-4023-b8ed-0cf26016a231",
+        "subject_id": "ad1c9f5f-fb00-4bed-9704-970a666bb774",
+        "classificationtype_id": "a00a076e-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 9,
-        "credits": ""
+        "credits": 4
     },
     {
-        "id": "45583d29-e54b-474f-8906-5ec82121c919",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "025c7668-cf52-4832-a075-c1321be4c5a8",
+        "subject_id": "afaf3c8e-3a6f-4753-a253-5354bff23fe1",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 9,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "45583d29-e54b-474f-8906-5ec82121c919",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "8c21f3b3-f7a4-4a58-8341-cf5c23ff971a",
+        "subject_id": "1034c41e-f0e9-4e68-a844-262d7014bbfe",
+        "classificationtype_id": "a00a076e-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 9,
-        "credits": ""
+        "credits": 4
     },
     {
-        "id": "45583d29-e54b-474f-8906-5ec82121c919",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "5a4971ee-337e-49cc-8448-135171ab28a0",
+        "subject_id": "f07fadd6-2ca6-473b-a9ff-267d231ed31c",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 9,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "45583d29-e54b-474f-8906-5ec82121c919",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "246b9cb9-fc70-43c3-9d65-804ff7637aa8",
+        "subject_id": "b8ddd91c-46c3-46d8-b88b-c79caf42f096",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 9,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "45583d29-e54b-474f-8906-5ec82121c919",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "9c0eacce-62e4-4543-b025-22a5c6c67412",
+        "subject_id": "8b20900c-ec47-4085-9078-204b43b725f1",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 9,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "84839546-b320-4517-a0d4-241975aee059",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "b1072783-eef1-40ad-9429-8d4fbf68829a",
+        "subject_id": "22a477cc-54c4-4607-beea-2cb747571935",
+        "classificationtype_id": "a00a0642-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 10,
-        "credits": ""
+        "credits": 4
     },
     {
-        "id": "84839546-b320-4517-a0d4-241975aee059",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "ed359f4f-52a3-4ee6-a2f1-0271b8bf0f37",
+        "subject_id": "8e754627-3907-4517-9d84-1ba666bcf591",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 10,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "84839546-b320-4517-a0d4-241975aee059",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "4a239aa4-c016-4d07-8a5b-a7c36c445bb2",
+        "subject_id": "9a1e09eb-e9e2-4627-b31c-69e004fe1dcb",
+        "classificationtype_id": "a00a076e-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 10,
-        "credits": ""
+        "credits": 4
     },
     {
-        "id": "84839546-b320-4517-a0d4-241975aee059",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "7e02902c-d128-45ed-8b67-4457ab586871",
+        "subject_id": "eebb5f60-d815-4f4a-a21e-35263b01c8f0",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 10,
-        "credits": ""
+        "credits": 6
     },
     {
-        "id": "84839546-b320-4517-a0d4-241975aee059",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "265c29ac-56e7-4634-ad5d-fcc582d6895d",
+        "subject_id": "afaf3c8e-3a6f-4753-a253-5354bff23fe1",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 10,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "84839546-b320-4517-a0d4-241975aee059",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "0e9b5cfa-8463-477b-92ea-d4d5c93e44c7",
+        "subject_id": "bf7d05b1-e29f-4586-af3d-143a87791783",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 10,
-        "credits": ""
+        "credits": 16
     },
     {
-        "id": "84839546-b320-4517-a0d4-241975aee059",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "7dad6086-0749-427a-b84f-442f6a160684",
+        "subject_id": "f07fadd6-2ca6-473b-a9ff-267d231ed31c",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 10,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "84839546-b320-4517-a0d4-241975aee059",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "0b612002-3a0b-4b40-8a85-7b578e0c66d6",
+        "subject_id": "b8ddd91c-46c3-46d8-b88b-c79caf42f096",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 10,
-        "credits": ""
+        "credits": 2
     },
     {
-        "id": "84839546-b320-4517-a0d4-241975aee059",
-        "subject_id": "",
-        "classificationtype_id": "",
+        "id": "0c23c4ee-8247-4eb4-8bdf-ab6ce7ddc513",
+        "subject_id": "8b20900c-ec47-4085-9078-204b43b725f1",
+        "classificationtype_id": "a00a0322-b095-11ed-9bd8-0242ac110002",
         "lastchange": "",
         "order": 10,
-        "credits": ""
+        "credits": 2
     }
 ]

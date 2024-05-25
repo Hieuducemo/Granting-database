@@ -1,251 +1,251 @@
 [
     {
-        "id": "71a6a73b-5fb6-4408-b248-b979d58e5249",
+        "id": "1a71b763-041b-4a1d-bca7-fe4a77eee7d7",
         "name": "Algoritmizace a programování",
         "name_en": "Algorithmization and programming",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "80f449d6-920f-4c58-a43a-ac60bee72259",
+        "id": "ca9c6a04-f0dd-4f7d-b975-47976fe4101e",
         "name": "Anglický jazyk",
         "name_en": "English Language",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "861f3539-54c9-405f-8d03-2818caf9bb3a",
+        "id": "6e116039-1ac6-494b-93aa-ab12bd82afa2",
         "name": "Aplikované vojenské technologie",
         "name_en": "Applied Military Technologies",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "7856e34d-63c4-426c-b76c-bf72a6f37c7e",
+        "id": "064548a5-1b80-44ac-a660-1d9ffd900857",
         "name": "Leadership",
         "name_en": "Leadership",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "7436994b-6c21-49a4-ad28-fa9aa338eeef",
+        "id": "d0d17393-df30-4a95-b623-185e66854651",
         "name": "Matematika I",
         "name_en": "Mathematics I",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "b54e9e2c-01f3-49fe-88b0-1fb619227003",
+        "id": "11c19942-b33c-4d6a-ba2a-2ecf17a8fa9f",
         "name": "Metodologie",
         "name_en": "Methodology",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "25f13a1b-c2ad-44e7-b220-37dd59b4ff84",
+        "id": "ad50cf26-b948-404a-9a77-deedfd7a8642",
         "name": "Příprava v poli",
         "name_en": "Field Training",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "2063e4db-7fa7-4c09-b8e7-d93be9f0d272",
+        "id": "c0f77375-5078-425d-ad70-a29e713456f7",
         "name": "Tělesná výchova",
         "name_en": "Physical Education",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "9bd69be5-087d-437c-ade4-42b21a778f78",
+        "id": "3adbbd29-77a6-46d2-a4d3-2df63687c2ea",
         "name": "Základy práva",
         "name_en": "Fundamentals of Law",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "b74608ad-5700-449d-8256-ccfb2aea3de8",
+        "id": "df70a5b8-e9c5-40d2-b36a-23bf8336f0c2",
         "name": "Bezpečnost a obrana státu",
         "name_en": "Security and State Defence",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "c4863795-a5d4-4b13-b881-c9fb33fd2beb",
+        "id": "7cf45630-17e9-4ca2-9481-bbc2b30a9bb3",
         "name": "Číslicová technika",
         "name_en": "Digital Technology",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "740f719f-5497-4c4e-8e66-ff4b40aa57fb",
+        "id": "4e19d0dc-0efe-45d9-b832-6fc1e0edb9f5",
         "name": "Informatika",
         "name_en": "Informatics",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "99cbac88-ee35-41ae-b029-c49b83888ce7",
+        "id": "efa115a5-2087-4a88-ac64-870d77f59d32",
         "name": "Matematika II",
         "name_en": "Mathematics II",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "55998c5e-6b48-4148-b6e1-1d18e1f79b21",
+        "id": "7cdb9e3e-7b6a-4f31-b425-57f7b0ba0a43",
         "name": "Vojenský leadership",
         "name_en": "Military Leadership",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "8ecdc7e6-f051-439f-aaa9-dc4a4ebd7814",
+        "id": "9e3a8564-f02d-4f00-85bc-1b598e1086f2",
         "name": "Architektury výpočetních systémů",
         "name_en": "Architectures of Computing Systems",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "5337e9ea-aa2c-47c6-a3b1-1115f0ac9303",
+        "id": "adab2fb1-84c9-455f-82d8-6c36235c579b",
         "name": "Matematika III",
         "name_en": "Mathematics III",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "0cc6f5c1-174d-45e8-a4df-c8890aa82bee",
+        "id": "553a214c-1923-4d32-9cdb-a14a4f16e16c",
         "name": "Krizové řízení",
         "name_en": "Crisis Management",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "2386ac5d-d9c9-4b90-90cc-80dd363d0c36",
+        "id": "f2ac607b-6350-4bd4-b678-69fed5dabf18",
         "name": "Matematika IV",
         "name_en": "Mathematics IV",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "ba1734f9-7f21-4d03-9d10-2b845ffd63b8",
+        "id": "4ff2afae-3b46-4296-b03f-45254f7001b0",
         "name": "Projektový management",
         "name_en": "Project Management",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "0464b6be-f154-466b-8961-c5331ed60338",
+        "id": "850017d6-43db-40e6-851a-94ddbf3b2c4f",
         "name": "Teorie grafů",
         "name_en": "Graph Theory",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "fa535866-a247-4953-bac9-71f6a8b25693",
+        "id": "520249f5-c550-4330-89ad-0a25a52dc2e9",
         "name": "Analýza informačních zdrojů",
         "name_en": "Analysis of Information Sources",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "1420672f-7243-46ab-8350-1a85034c9dce",
+        "id": "b2f44652-d693-4e44-91ad-4e1ec1a7fc2c",
         "name": "Kybernetická bezpečnost",
         "name_en": "Cyber Security",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "140f71f6-70c4-4cc3-8fc5-3cf475514b7f",
+        "id": "aeb2366b-c995-4a0d-94d6-4ce1710af98d",
         "name": "Počítačové sítě a jejich bezpečnost",
         "name_en": "Computer Networks and Their Security",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "dce3786d-e478-43e1-9bf4-4a40912172a4",
+        "id": "3aaf09f1-782a-4faf-8a99-1f0f75dea4a1",
         "name": "Teorie informace",
         "name_en": "Theory of Information",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "bceea3fd-af6b-43e2-9498-812943056d3b",
+        "id": "1b57b182-2570-4216-b51a-c4b7bc0b7ffa",
         "name": "Aplikované bezpečnostní technologie",
         "name_en": "Applied Security Technologies",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "f3cf5881-a9d5-48aa-b288-68df32730d5c",
+        "id": "d92ca532-ba13-4361-b2bc-5a932a4921d8",
         "name": "Kryptografické algoritmy a protokoly",
         "name_en": "Cryptographic Algorithms and Protocols",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "fcab8129-5ab9-47dc-865e-ffa08d9e5df3",
+        "id": "5359e74f-9e09-4f7f-a7c2-c6a57fbad446",
         "name": "Odborná praxe",
         "name_en": "Professional Practice",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "d3d58978-90ae-489e-b8b8-a3f708f6b11f",
+        "id": "c2477b34-f1be-41be-aaa8-6a698d8555bc",
         "name": "Francouzský jazyk",
         "name_en": "French Language",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "fbe22ec0-398a-4b69-94fd-0517abbcb3c9",
+        "id": "91b9c43b-ba9c-4148-8422-469760350aab",
         "name": "Německý jazyk",
         "name_en": "German Language",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "30eaf83e-fc64-46d6-af45-ea17c1c3eb93",
+        "id": "379ceab5-7650-42f3-a52e-46675928dbaf",
         "name": "Ruský jazyk",
         "name_en": "Russian Language",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "957d1f71-ecb7-4c4b-a8ba-8c4087b494fe",
+        "id": "131ce2c2-1f45-42c1-b972-d46324cfcc96",
         "name": "Analýzy a kritické myšlení",
         "name_en": "Analyzes and Critical Thinking",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "ef394785-7f1f-4814-97fe-40794c7bf37b",
+        "id": "f790c332-593d-4b5f-b774-b682f4669d60",
         "name": "Forenzní analýza",
         "name_en": "Forensic Analysis",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "214842a1-3408-488f-9c23-5a6a8260b27a",
+        "id": "4b8d9d82-8698-49e5-a11c-939c54045712",
         "name": "Penetrační testování",
         "name_en": "Penetration Testing",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "5081a09c-42c2-47ce-88bb-35f5e19cadf3",
+        "id": "6d32ad03-9472-419c-af98-1bd7c506e87f",
         "name": "Vývoj a nasazení malware",
         "name_en": "Development and Deployment of Malware",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "44768a7f-029a-4081-9f69-b2b18070dc75",
+        "id": "e9a93d19-dda8-4128-b4d6-19202cbc6f2c",
         "name": "Botnetové sítě",
         "name_en": "Botnet Networks",
         "program_id": "4",
         "lastchange": ""
     },
     {
-        "id": "3c73dc74-4a7d-4e09-a0d7-7da4ea4b2251",
+        "id": "e3912f83-ba17-49f1-bf8c-38edc35df48f",
         "name": "Zpracování diplomové práce a příprava na SZZ",
         "name_en": "Preparation of the Diploma Thesis and Preparation for the FSE",
         "program_id": "4",
