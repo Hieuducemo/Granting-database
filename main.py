@@ -44,10 +44,7 @@ table_data_program["name"] = program_name
 table_data_program["name_en"]=program_name_eng
 table_data_program["type_id"]= "fd4f2082-9315-11ed-9b95-0242ac110002"
 table_data_program["lastchange"]=""
-parsed_url = urlparse(url)
-path_segments = parsed_url.path.split('/')
-program_id = path_segments[3]
-table_data_program["id"]= program_id
+table_data_program["id"]= str(uuid.uuid4())
 
 # Extract subjects from the Czech page
 data_subject = []
@@ -66,7 +63,7 @@ for subject in subjects:
         "id":str(uuid.uuid4()),
         "name": subject_name,
         "name_en": "",  # Placeholder for English name
-        "program_id":program_id,
+        "program_id":table_data_program["id"],
         "lastchange":""
     })
 
@@ -112,8 +109,24 @@ for user in users:
         "lastchange":"", 
         "order": order
     })
-
-
+#topic 
+topic_data =[] 
+topic_data.append({
+    "id":str(uuid.uuid4()),
+    "semester_id":"12472709-8de6-4594-8c2e-24a1eb9993e4",
+    "lastchange":"",
+    "name":"Rozvoj základních pohybových schopností" ,
+    "name_en":"Development of basic physical abilities"
+})
+#lesson
+lesson_data=[]
+lesson_data.append({
+    "id":str(uuid.uuid4()),
+    "topic_id":topic_data[0]["id"],
+    "type_id":"e2b7cfac-95e1-11ed-a1eb-0242ac120002",
+    "lastchange":"",
+    "count":1
+})
 # Create the final data dictionary
 data = {
     "acprograms": [table_data_program],
@@ -122,10 +135,10 @@ data = {
     "aclessontypes": lesson_types,
     "acclassificationtypes": classification_types,
     "acclassificationlevels": classification_levels,
-    "aclesson": "",
+    "aclesson": lesson_data,
     "acsemester": semesters,
     "acclassification": data_classification,
-    "actopic": ""
+    "actopic": topic_data
 }
 
 # Write the subjects to a JSON file
