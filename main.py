@@ -83,6 +83,11 @@ for i, subject_eng in enumerate(subjects_eng):
 # Filter out subjects with empty English names
 filtered_data_subject = [subject for subject in data_subject if subject["name_en"]]
 
+#semester 
+with open('acclassification.json', 'r', encoding='utf-8') as file:
+    classification_types = json.load(file)
+
+
 # Load existing data files
 def load_json(filename):
     with open(filename, "r", encoding="utf-8") as file:
@@ -92,7 +97,7 @@ program_types = load_json("programtype.json")
 lesson_types = load_json("lessontype.json")
 classification_types = load_json("acclassification.json")
 classification_levels = load_json("acclassificationlevel.json")
-semesters = load_json("acsemester.json")
+
 
 #classification
 data_classification = [] 
@@ -127,6 +132,94 @@ lesson_data.append({
     "lastchange":"",
     "count":1
 })
+
+
+# Write the subjects to a JSON file
+with open("acsubject.json", "w", encoding="utf-8") as json_file:
+    json.dump(filtered_data_subject, json_file, ensure_ascii=False, indent=4)
+
+# Load classification types from JSON file
+with open('acclassification.json', 'r', encoding='utf-8') as file:
+    classification_types = json.load(file)
+
+# Load subjects from JSON file
+with open('acsubject.json', 'r', encoding='utf-8') as file:
+    subjects = json.load(file)
+
+options = Options()
+options.add_experimental_option("detach", True)
+
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+
+# Read the URLs from file
+with open('subject_href.txt', 'r') as file:
+    lines = file.readlines()
+
+semester_data = []
+order_id_map = {}
+
+for line in lines:
+    url = line.strip()
+    driver.get(url)
+    time.sleep(1)  # Wait for the page to load
+    html_text = driver.page_source
+    soup = BeautifulSoup(html_text, "html.parser")
+    table = soup.find('table')
+    rows = table.find_all('tr')
+    
+
+        # Get the semester order
+    semester_order_str = rows[12].find_all('td')[1].text
+    semester_order = int(semester_order_str.split('/')[1])
+
+        # Generate or retrieve unique ID for the order
+    unique_id = str(uuid.uuid4())
+    order_id_map[semester_order] = unique_id
+
+        # Get the classification text
+    classification_text = rows[10].find_all('td')[1].text.strip()
+        
+        # Find the classification ID
+    classification_id = ""
+    for classification in classification_types:
+            if classification['name'] == classification_text:
+                classification_id = classification['id']
+                break
+
+        # Get the semester credit
+    semester_credit = int(rows[11].find_all('td')[1].text)
+
+        # Get the subject name in English
+    subject_name_eng = driver.find_element(By.XPATH, "//span[@class='h2 lead nabidkaH']").text.strip()
+
+        # Find the corresponding subject ID
+    subject_id = ""
+    for subject in subjects:
+            if subject['name_en'].strip() == subject_name_eng:
+                subject_id = subject['id']
+                break
+
+        # Append the data
+    semester_data.append({
+            "id": unique_id,
+            "subject_id": subject_id,
+            "classificationtype_id": classification_id,
+            "lastchange": "",
+            "order": semester_order,
+            "credits": semester_credit
+        })
+    
+
+driver.quit()
+
+# Write the data to a JSON file
+with open("acsemester.json", "w", encoding="utf-8") as json_file:
+    json.dump(semester_data, json_file, ensure_ascii=False, indent=4)
+
+print("a ok")
+
+semesters = load_json("acsemester.json")
+
 # Create the final data dictionary
 data = {
     "acprograms": [table_data_program],
@@ -140,10 +233,6 @@ data = {
     "acclassification": data_classification,
     "actopic": topic_data
 }
-
-# Write the subjects to a JSON file
-with open("acsubject.json", "w", encoding="utf-8") as json_file:
-    json.dump(filtered_data_subject, json_file, ensure_ascii=False, indent=4)
 
 # Write the complete data to a JSON file
 with open("systemdata2.json", "w", encoding="utf-8") as json_file:

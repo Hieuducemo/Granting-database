@@ -22,6 +22,7 @@ https://apl.unob.cz/StudijniProgramy/PredmetDetail/70470/Aplikovane-vojenske-tec
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/658/Architektury-vypocetnich-systemu
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/5/Informatika
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/604/Matematika-III
+https://apl.unob.cz/StudijniProgramy/PredmetDetail/70482/Priprava-v-poli
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/418/Telesna-vychova
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/675/Zaklady-prava
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/451/Anglicky-jazyk
@@ -30,6 +31,7 @@ https://apl.unob.cz/StudijniProgramy/PredmetDetail/6/Informatika
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/662/Krizove-rizeni
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/605/Matematika-IV
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/107/Projektovy-management
+https://apl.unob.cz/StudijniProgramy/PredmetDetail/70483/Priprava-v-poli
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/419/Telesna-vychova
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/670/Teorie-grafu
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/645/Analyza-informacnich-zdroju
@@ -84,9 +86,9 @@ https://apl.unob.cz/StudijniProgramy/PredmetDetail/608/Rusky-jazyk
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/650/Analyza-informacnich-zdroju
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/457/Anglicky-jazyk
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/659/Botnetove-site
+https://apl.unob.cz/StudijniProgramy/PredmetDetail/71744/Diplomovy-seminar
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/70168/Odborna-praxe
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/425/Telesna-vychova
-https://apl.unob.cz/StudijniProgramy/PredmetDetail/676/Zpracovani-diplomove-prace-a-priprava-na-SZZ
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/65888/Francouzsky-jazyk
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/65892/Nemecky-jazyk
 https://apl.unob.cz/StudijniProgramy/PredmetDetail/609/Rusky-jazyk
