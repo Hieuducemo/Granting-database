@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="Cyber_Security",  
+    name="GrantingUNOB",  
     version="0.0.1",
     author="Tran Hieu Duc, To Minh Quan",
     author_email="heovip1ad@gmail.com",
